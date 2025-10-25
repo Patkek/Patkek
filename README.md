@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<details>
+  <summary>My Stats</summary>
+  
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=patkek&show=discussions_started,prs_merged,prs_merged_percentage&show_icons=true&theme=nightowl&custom_title=Patkek's%20GitHub%20Stats%20😎)
+</details>
+
 <!--
 **Patkek/Patkek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,36 @@
 ## Hi there 👋
 
+<table>
+  <tr>
+    <th style="padding:8px">
+      <a href="https://github.com/Patkek" style="text-decoration:none; color:inherit;">
+        <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"
+             alt="GitHub"
+             style="height:20px; display:inline-block; vertical-align:middle; margin-right:8px; transform:translateY(1px);">
+        Account
+      </a>
+    </th>
+    <th style="padding:8px">
+      <a href="https://gitlab.com/Patkek" style="text-decoration:none; color:inherit;">
+        <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff"
+             alt="GitLab"
+             style="height:20px; display:inline-block; vertical-align:middle; margin-right:8px; transform:translateY(1px);">
+        Account
+      </a>
+    </th>
+    <th style="padding:8px">
+      <a href="https://codeberg.org/Patkek" style="text-decoration:none; color:inherit;">
+        <img src="https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=fff"
+             alt="Codeberg"
+             style="height:20px; display:inline-block; vertical-align:middle; margin-right:8px; transform:translateY(1px);">
+        Account
+      </a>
+    </th>
+  </tr>
+</table>
+
+
+
 <details>
   <summary>My Stats</summary>
   
